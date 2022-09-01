@@ -142,26 +142,3 @@ pie3D(z,labels=paste0(piepercent,"%"),explode=0.1,col=colors,radius=1,main="Perc
      vs Healthy Weight")
 legend("bottomright",c("OverWeight","HealthyWeight"),cex=0.5,fill=colors)  
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
